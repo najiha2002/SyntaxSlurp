@@ -1,0 +1,7 @@
+Carbonara:15.00
+Chicken Chop:12.00
+Pepperoni Pizza:5.00
+Chicken Lasagna:10.00
+5 Buffalo Wings:25.00
+Cheezy Nachos:5.00
+Burger:4.00

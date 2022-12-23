@@ -1,0 +1,6 @@
+Mee Goreng:4.00
+Nasi Lemak:5.00
+Char Kuay Teow:7.00
+Rendang Daging:8.00
+Yong Tau Foo:6.00
+Dim Sum:6.00

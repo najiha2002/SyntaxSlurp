@@ -1,0 +1,5 @@
+Pavlova:10.00
+Brownies:9.00
+Creme Brulee:8.00
+Ice Cream:5.00
+Choco Cake:7.50
